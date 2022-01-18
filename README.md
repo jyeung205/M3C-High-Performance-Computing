@@ -6,10 +6,10 @@ Grade: 73
 
 ### Overview:
 
-HW1: Python arrays and vectorisation
-Hw2: Implementing neural networks on Fortran90
-Hw3: Fortran90 OpenMP
-Hw4: Parallel computing of Fortran90 code using OpenMP + MPI
+- HW1: Python arrays and vectorisation
+- Hw2: Implementing neural networks on Fortran90
+- Hw3: Fortran90 OpenMP
+- Hw4: Parallel computing of Fortran90 code using OpenMP + MPI
 
 ---
 
